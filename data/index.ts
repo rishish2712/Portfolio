@@ -75,14 +75,14 @@ export const projects = [
         title: "Blood Management System",
         des: "Developed a Blood Management System that allows users to donate and request blood, ensuring efficient management and availability. ",
         img: "/bloodbank.png",
-        link:"",
+        link:"visit github",
     },
     {
         id: 2,
         title: "Online Banking System",
         des: "Developed an online banking system allowing users to deposit, withdraw, and check account balances, ensuring secure and efficient transactions.",
         img: "/Bankingproject.png",
-        link:"",
+        link:"visit github",
     },
 ];
 
