@@ -72,52 +72,33 @@ export const gridItems = [
 export const projects = [
     {
         id: 1,
-        title: "Blood Management System",
-        des: "Developed a Blood Management System that allows users to donate and request blood, ensuring efficient management and availability. ",
-        img: "/bloodbank.png",
-        link:"visit github",
+        title: "E-Commerce Site",
+        des: "Built an eCommerce platform using Next.js and TypeScript to help startups transform their ideas into thriving businesses.",
+        img: "/E-com.png",
+        link: "loklbiz.vercel.app",
     },
     {
         id: 2,
+        title: "Chat-Application",
+        des: "Chat with your friends openly and authentically—no hidden identities, just pure fun! using Java and SpringBoot",
+        img: "/chat-app.png",
+        link: "visit github",
+    },
+    {
+        id: 3,
+        title: "Blood Management System",
+        des: "Developed a secure and efficient blood management system in Java Spring Boot, connecting donors and recipients with detailed record maintenance.",
+        img: "/bloodbank.png",
+        link: "visit github",
+    },
+    {
+        id: 4,
         title: "Online Banking System",
         des: "Developed an online banking system allowing users to deposit, withdraw, and check account balances, ensuring secure and efficient transactions.",
         img: "/Bankingproject.png",
-        link:"visit github",
+        link: "visit github",
     },
 ];
-
-// export const testimonials = [
-//     {
-//         quote:
-//             "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-//         name: "Michael Johnson",
-//         title: "Director of AlphaStream Technologies",
-//     },
-//     {
-//         quote:
-//             "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-//         name: "Michael Johnson",
-//         title: "Director of AlphaStream Technologies",
-//     },
-//     {
-//         quote:
-//             "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-//         name: "Michael Johnson",
-//         title: "Director of AlphaStream Technologies",
-//     },
-//     {
-//         quote:
-//             "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-//         name: "Michael Johnson",
-//         title: "Director of AlphaStream Technologies",
-//     },
-//     {
-//         quote:
-//             "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-//         name: "Michael Johnson",
-//         title: "Director of AlphaStream Technologies",
-//     },
-// ];
 
 export const companies = [
     {
