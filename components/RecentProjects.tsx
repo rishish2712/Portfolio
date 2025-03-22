@@ -34,7 +34,7 @@ const RecentProjects = () => {
                             <div className='mt-7 mb-3'>
                                 <div className='flex justify-center items-center'>
                                     <p className='flex lg:text-xl md:text-xs text-sm text-purple'>
-                                        <a href={`https://${link}`} target="_blank" rel="noreferrer noopener">
+                                        <a href={`${link}`} target="_blank" rel="noreferrer noopener">
                                             Click Here
                                         </a>
                                     </p>
