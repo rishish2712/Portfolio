@@ -59,7 +59,7 @@ export const gridItems = [
     },
     {
         id: 6,
-        title: "Let's turn innovative ideas into reality togetherr.",
+        title: "Let's turn innovative ideas into reality together.",
         description: "",
         className: "lg:col-span-2 md:col-span-3 md:row-span-1",
         imgClassName: "",
@@ -75,61 +75,28 @@ export const projects = [
         title: "E-Commerce Site",
         des: "Built an eCommerce platform using Next.js and TypeScript to help startups transform their ideas into thriving businesses.",
         img: "/E-com.png",
-        link: "loklbiz.vercel.app",
+        link: "https://loklbiz.vercel.app",
     },
     {
         id: 2,
         title: "Chat-Application",
         des: "Chat with your friends openly and authentically—no hidden identities, just pure fun! using Java and SpringBoot",
         img: "/chat-app.png",
-        link: "visit github",
+        link: "visit GitHub",
     },
     {
         id: 3,
         title: "Blood Management System",
         des: "Developed a secure and efficient blood management system in Java Spring Boot, connecting donors and recipients with detailed record maintenance.",
         img: "/bloodbank.png",
-        link: "visit github",
+        link: "visit GitHub",
     },
     {
         id: 4,
         title: "Online Banking System",
         des: "Developed an online banking system allowing users to deposit, withdraw, and check account balances, ensuring secure and efficient transactions.",
         img: "/Bankingproject.png",
-        link: "visit github",
-    },
-];
-
-export const companies = [
-    {
-        id: 1,
-        name: "cloudinary",
-        img: "/cloud.svg",
-        nameImg: "/cloudName.svg",
-    },
-    {
-        id: 2,
-        name: "appwrite",
-        img: "/app.svg",
-        nameImg: "/appName.svg",
-    },
-    {
-        id: 3,
-        name: "HOSTINGER",
-        img: "/host.svg",
-        nameImg: "/hostName.svg",
-    },
-    {
-        id: 4,
-        name: "stream",
-        img: "/s.svg",
-        nameImg: "/streamName.svg",
-    },
-    {
-        id: 5,
-        name: "docker.",
-        img: "/dock.svg",
-        nameImg: "/dockerName.svg",
+        link: "visit GitHub",
     },
 ];
 
@@ -145,7 +112,7 @@ export const workExperience = [
         id: 2,
         title: "MERN Stack Developer",
         desc: "As a MERN Stack Developer, I build dynamic web applications using MongoDB, Express, React, and Node.js for full-stack solutions.",
-        className: "md:col-span-2", // change to md:col-span-2
+        className: "md:col-span-2", 
         thumbnail: "/exp2.svg",
     }
 ];
