@@ -75,7 +75,7 @@ export const projects = [
         title: "E-Commerce Site",
         des: "Built an eCommerce platform using Next.js and TypeScript to help startups transform their ideas into thriving businesses.",
         img: "/E-com.png",
-        link: "https://loklbiz.vercel.app",
+        link: "https://loklbiz.com",
     },
     {
         id: 2,
@@ -112,7 +112,7 @@ export const workExperience = [
         id: 2,
         title: "MERN Stack Developer",
         desc: "As a MERN Stack Developer, I build dynamic web applications using MongoDB, Express, React, and Node.js for full-stack solutions.",
-        className: "md:col-span-2", 
+        className: "md:col-span-2",
         thumbnail: "/exp2.svg",
     }
 ];
